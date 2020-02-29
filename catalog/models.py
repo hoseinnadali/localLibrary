@@ -1,5 +1,5 @@
 from django.db import models
 
 # Create your models here.
-def model(models.Model):
+def d(models.Model):
   pass
